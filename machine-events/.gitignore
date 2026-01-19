@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+target/
+.idea/
+*.class
+*.iml
+test-1000-events.json
+generate-test-data.py
